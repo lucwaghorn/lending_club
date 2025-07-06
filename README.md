@@ -38,19 +38,21 @@ The project follows a full machine learning pipeline:
 
 ## Project Structure
 
+```
 data/
-  lending_club_loan_two.csv        # Raw dataset
-  df_final.csv                     # Cleaned and transformed dataset
+├── lending_club_loan_two.csv        # Raw dataset
+├── df_final.csv                     # Cleaned and transformed dataset
 
 models/
-  loan_default_model.h5            # Trained Keras neural network
+├── loan_default_model.h5            # Trained Keras neural network
 
 outputs/
-  predictions_with_threshold.csv   # Final predictions with adjusted threshold
+├── predictions_with_threshold.csv   # Final predictions with adjusted threshold
 
-Projet_publique_ANN.ipynb          # Main notebook
-README.md                          # Project description
-requirements.txt                   # Python dependencies
+Projet_publique_ANN.ipynb            # Main notebook
+README.md                            # Project description
+```
+
 
 ## Technologies
 
