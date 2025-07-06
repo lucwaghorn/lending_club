@@ -61,5 +61,7 @@ Python, scikit-learn, Keras, Keras Tuner, SHAP, pandas, matplotlib, Google Colab
 ## Getting Started
 
 1. Clone the repository:
+```
 git clone https://github.com/lucwaghorn/lending_club.git
 cd lending_club
+```
